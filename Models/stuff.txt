@@ -1,1 +1,0 @@
-//Everything in this folder will be 3D Models for the game. This is a sample file.
